@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// Co-authored-by: Claude
+// Co-authored-by: MDFJ
 
 #ifndef CARL_MM_H
 #define CARL_MM_H
